@@ -6,4 +6,4 @@
 </div>
 
 <br /><br />
-![Sonsation's github stats](https://github-readme-stats.vercel.app/api?username=sonsation&show_icons=true&theme=radical&count_private=true)
+![Sonsation's github stats](https://github-readme-stats.vercel.app/api?username=sonsation&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
